@@ -1,3 +1,14 @@
+# add files
+PyCitySchools_Challenge_Testing.ipynb
+PyCitySchools_Challenge_starter_code.ipynb
+Resources/missing_grades.csv
+clean_students_complete.csv
+cleaning_data.ipynb
+cleaning_student_names.ipynb
+function.ipynb
+jupyter_practice.ipynb
+pandas_practice.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
