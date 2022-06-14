@@ -2,7 +2,7 @@
 
 <!-- Overview of the school district analysis: Explain the purpose of this analysis. -->
 ## Overview
-The purpose of this project is to examine csv files regarding 15 schools and their students' math and reading scores then compare the effects of excluding Thomas High School(THS)'s ninth grade scores.
+The school board sends a notification announcing that the math and reading scores of Thomas High School (THS) ninth graders were altered due to academic dishonesty. In order to determine the validity of this statement, we examine the relevant csv files containing information from all 15 schools and their students' math and reading scores. We then compare the analysis of including versus excluding THS's ninth grade scores.
 
 ## Resources
 Data source: schools_complete.csv, students_complete.csv
